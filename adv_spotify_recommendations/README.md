@@ -6,4 +6,4 @@ As I just made this for myself, it's not streamlined for other to use, but if yo
 3. Run python3 main.py 
 
 
-![Demo GIF](demo.gif)
+![Demo GIF](demo_run.gif)
